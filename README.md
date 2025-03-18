@@ -13,9 +13,8 @@ _This AI-powered blog generator allows users to input a title, and the system au
 
 **Installation & Setup:**
 
-=> Clone the repository:
-    git clone https://github.com/Nisth-diwedi/ai-blog-generator.git
-    cd ai-blog-generator
+=> The repository:
+    https://github.com/Nistha-diwedi/blog-writing-ai
 
 => Install required dependencies:
     pip install requests
